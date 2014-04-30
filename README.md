@@ -7,3 +7,5 @@ This repository contains the scripts used to train ANNs using
 > F. Zamora-Martínez, P. Romeu, P. Botella-Rocamora,
 > J. Pardo. **[On-line learning of indoor temperature forecasting models towards energy efficiency](http://dx.doi.org/10.1016/j.enbuild.2014.04.034)**.
 > Energy and Buildings. 2014.
+
+The data is available at UCI Machine Learning Repository as [SML2010 dataset](http://archive.ics.uci.edu/ml/datasets/SML2010).
